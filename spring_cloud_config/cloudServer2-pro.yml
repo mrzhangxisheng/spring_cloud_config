@@ -16,6 +16,3 @@ ribbon:
 feign:
   hystrix:
     enabled: true
-
-server:
-  port: 83
