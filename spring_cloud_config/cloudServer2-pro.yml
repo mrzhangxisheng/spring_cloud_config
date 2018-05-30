@@ -21,3 +21,6 @@ ribbon:
 feign:
   hystrix:
     enabled: true
+
+server:
+  csdata: heihei
