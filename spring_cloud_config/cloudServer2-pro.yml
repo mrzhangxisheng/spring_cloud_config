@@ -1,6 +1,11 @@
 spring:
   application:
     name: cloud-server-2
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: springcloud
+    password: qwer1234
 eureka:
   instance:
     hostname: localhost
