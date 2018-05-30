@@ -31,3 +31,7 @@ feign:
 hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 2000 #熔断时间
 
 
+server:
+  csdata: heihei
+
+
