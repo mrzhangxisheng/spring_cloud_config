@@ -33,3 +33,7 @@ hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds: 2000 #
 
 server:
   csdata: heihei
+  
+management:
+  security:
+    enabled: false
