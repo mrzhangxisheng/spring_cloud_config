@@ -6,6 +6,10 @@ spring:
     port: 5672
     username: springcloud
     password: qwer1234
+  cloud:
+    bus:
+      trace:
+        enabled: true
 eureka:
   instance:
     hostname: localhost
